@@ -4,7 +4,7 @@
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap)](https://getbootstrap.com/)\
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)\
 [![GitHub
-stars](https://img.shields.io/github/stars/YOUR-USERNAME/react-shoe-store?style=social)](https://github.com/YOUR-USERNAME/react-shoe-store/stargazers)
+stars](https://img.shields.io/github/stars/waghbhaskar/shoestore?style=social)](https://github.com/waghbhaskar/shoestore/stargazers)
 
 An elegant and responsive **React + Bootstrap 5** application for
 browsing shoes, adding them to the cart, and managing quantities with a
