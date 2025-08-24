@@ -23,18 +23,6 @@ clean shopping cart experience.
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home](./src/assets/home-screenshot.png)
-
-### 🛒 Cart Page
-
-![Cart](./src/assets/cart-screenshot.png)
-
-------------------------------------------------------------------------
-
 ## 🛠️ Tech Stack
 
 -   ⚛️ **React.js** (Frontend)\
