@@ -38,10 +38,10 @@ Follow these steps to run the project locally:
 
 ``` bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/react-shoe-store.git
+git clone https://github.com/waghbhaskar/shoestore.git
 
 # Go into project folder
-cd react-shoe-store
+cd shoestore
 
 # Install dependencies
 npm install
